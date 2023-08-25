@@ -10,7 +10,7 @@ Latest version 2.0
 
 ## using：
 example url：
-http://47.104.157.204:10000/
+http://:10000/
 Due to incorrect configuration, anonymous users can directly access the main interface of the file sharing system without logging in, that is, they have any file reading permission of the file sharing service
 ![Image](https://github.com/goodric/chfs/assets/76898521/f6ef5da4-df3e-4cdd-93fe-716a72a90813)
 
